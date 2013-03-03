@@ -1,4 +1,6 @@
-#Introduction This is all about testgit.  
+#Introduction 
+
+This is all about testgit.  
 
 - a 
 - list
@@ -6,5 +8,6 @@
 - points
 
 More stuff
+
 More stuff
 
